@@ -5,6 +5,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Copilot](https://copilot.microsoft.com)
+- [Ray.so](https://ray.so)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts utilizados
